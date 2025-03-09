@@ -43,5 +43,8 @@ Assembly Endgame is a word-guessing game built with **React + Vite**. Players ha
 3. If you win, enjoy the **confetti explosion!** 🎉
 4. If you run out of attempts, try again!
 
+📄 License
+
+This project is licensed under the MIT License.
 
 
