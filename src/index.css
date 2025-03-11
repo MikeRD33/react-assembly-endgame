@@ -142,6 +142,13 @@ section.keyboard > button {
   border-radius: 3px;
   cursor: pointer;
 }
+section.keyboard > button:hover {
+ background-color: #f9d404;
+ 
+ transform: scale(1.05);
+ 
+}
+
 
 section.keyboard > button.correct {
   background-color: #10A95B;
